@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cafefusion.dk",
-    "currentPage": "cafefusion.dk.html",
+    "currentPage": "dk.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -385,7 +385,7 @@
         }
       ]
     },
-    "cafefusion.dk.html": {
+    "dk.html": {
       "settings": {
         "main": true,
         "title": "Home",
